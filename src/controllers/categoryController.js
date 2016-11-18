@@ -1,5 +1,10 @@
 'use strict';
 
+var categories = [
+	{'id': 1, 'name': 'films'},
+	{'id': 2, 'name': 'musiques'}
+];
+
 app.
 	controller('categoryIndex', function($scope) {
 
